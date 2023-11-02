@@ -2,6 +2,8 @@
 {
     public class Time
     {
+        public DateTime time;
 
+        public bool Reserved;
     }
 }
