@@ -2,7 +2,6 @@
   "version": 3,
   "targets": {
     "net6.0": {
-<<<<<<< HEAD
       "Microsoft.EntityFrameworkCore/7.0.13": {
         "type": "package",
         "dependencies": {
@@ -64,8 +63,6 @@
           }
         }
       },
-=======
->>>>>>> 089c119455fb5f16e0d4a77e7cbe34033b292dc9
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
         "type": "package",
         "build": {
@@ -326,7 +323,6 @@
     }
   },
   "libraries": {
-<<<<<<< HEAD
     "Microsoft.EntityFrameworkCore/7.0.13": {
       "sha512": "fACONzJtzLJQ29soFqBr0OzgmIYMHV7y9AEZ18hqGx2K0FMJNqezAcfzovc4WI+kT9IvOFQKhDNTl5DMimgkMA==",
       "type": "package",
@@ -384,8 +380,6 @@
         "microsoft.entityframeworkcore.inmemory.nuspec"
       ]
     },
-=======
->>>>>>> 089c119455fb5f16e0d4a77e7cbe34033b292dc9
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
       "sha512": "LH4OE/76F6sOCslif7+Xh3fS/wUUrE5ryeXAMcoCnuwOQGT5Smw0p57IgDh/pHgHaGz/e+AmEQb7pRgb++wt0w==",
       "type": "package",
@@ -806,32 +800,28 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-<<<<<<< HEAD
-      "Microsoft.EntityFrameworkCore >= 7.0.13",
       "Microsoft.EntityFrameworkCore.InMemory >= 7.0.13",
-=======
->>>>>>> 089c119455fb5f16e0d4a77e7cbe34033b292dc9
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Osaul\\.nuget\\packages\\": {},
+    "C:\\Users\\gabsa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Osaul\\Documents\\Communication\\TaDa\\QuickMedik\\QuickMedik.csproj",
+      "projectUniqueName": "C:\\Users\\gabsa\\source\\repos\\QuickMedik\\QuickMedik\\QuickMedik.csproj",
       "projectName": "QuickMedik",
-      "projectPath": "C:\\Users\\Osaul\\Documents\\Communication\\TaDa\\QuickMedik\\QuickMedik.csproj",
-      "packagesPath": "C:\\Users\\Osaul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Osaul\\Documents\\Communication\\TaDa\\QuickMedik\\obj\\",
+      "projectPath": "C:\\Users\\gabsa\\source\\repos\\QuickMedik\\QuickMedik\\QuickMedik.csproj",
+      "packagesPath": "C:\\Users\\gabsa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabsa\\source\\repos\\QuickMedik\\QuickMedik\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Osaul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -840,6 +830,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -858,17 +850,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
-<<<<<<< HEAD
-          "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[7.0.13, )"
-          },
           "Microsoft.EntityFrameworkCore.InMemory": {
             "target": "Package",
             "version": "[7.0.13, )"
           },
-=======
->>>>>>> 089c119455fb5f16e0d4a77e7cbe34033b292dc9
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.2.3, )"
@@ -893,7 +878,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

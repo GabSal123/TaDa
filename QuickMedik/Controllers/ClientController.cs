@@ -17,13 +17,13 @@ namespace QuickMedik.Controllers
         }
 
 
-        [HttpPost]
+        /*[HttpPost]
         public async Task<IActionResult> Create()
         {
             Client client = new Client
             {
                 
             };
-        }
+        }*/
     }
 }
