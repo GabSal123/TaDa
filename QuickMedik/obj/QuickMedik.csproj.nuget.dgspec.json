@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabsa\\source\\repos\\QuickMedik\\QuickMedik\\QuickMedik.csproj": {}
+    "C:\\Users\\Osaul\\Documents\\Communication\\TaDa\\QuickMedik\\QuickMedik.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabsa\\source\\repos\\QuickMedik\\QuickMedik\\QuickMedik.csproj": {
+    "C:\\Users\\Osaul\\Documents\\Communication\\TaDa\\QuickMedik\\QuickMedik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabsa\\source\\repos\\QuickMedik\\QuickMedik\\QuickMedik.csproj",
+        "projectUniqueName": "C:\\Users\\Osaul\\Documents\\Communication\\TaDa\\QuickMedik\\QuickMedik.csproj",
         "projectName": "QuickMedik",
-        "projectPath": "C:\\Users\\gabsa\\source\\repos\\QuickMedik\\QuickMedik\\QuickMedik.csproj",
-        "packagesPath": "C:\\Users\\gabsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabsa\\source\\repos\\QuickMedik\\QuickMedik\\obj\\",
+        "projectPath": "C:\\Users\\Osaul\\Documents\\Communication\\TaDa\\QuickMedik\\QuickMedik.csproj",
+        "packagesPath": "C:\\Users\\Osaul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Osaul\\Documents\\Communication\\TaDa\\QuickMedik\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gabsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Osaul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,6 +44,7 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+<<<<<<< HEAD
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.13, )"
@@ -54,6 +53,8 @@
               "target": "Package",
               "version": "[7.0.13, )"
             },
+=======
+>>>>>>> 089c119455fb5f16e0d4a77e7cbe34033b292dc9
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -78,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
