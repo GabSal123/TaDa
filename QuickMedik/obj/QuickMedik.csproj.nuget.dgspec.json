@@ -53,8 +53,6 @@
               "target": "Package",
               "version": "[7.0.13, )"
             },
-=======
->>>>>>> 089c119455fb5f16e0d4a77e7cbe34033b292dc9
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
