@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "G9g803LaowNZtc4fxMvcro5oNAM2PBqhUOMBAYs1tToAxPjEe/fehdE1DhjgRsemCbR0mH+6cldwFtgkHbaWzw==",
+  "dgSpecHash": "UAaBeqfQtfOg/yrjk7K1TJoBv1JFUHFXju4y8QVThwI1bwUAPbIc4B2ZuM1lEepOLhlMrbDO04t2ExeUeBwLLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\gabsa\\source\\repos\\QuickMedik\\QuickMedik\\QuickMedik.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabsa\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\gabsa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
     "C:\\Users\\gabsa\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.13\\microsoft.entityframeworkcore.analyzers.7.0.13.nupkg.sha512",
+    "C:\\Users\\gabsa\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.13\\microsoft.entityframeworkcore.inmemory.7.0.13.nupkg.sha512",
     "C:\\Users\\gabsa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\gabsa\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\gabsa\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",

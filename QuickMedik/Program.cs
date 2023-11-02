@@ -1,4 +1,25 @@
+using Microsoft.EntityFrameworkCore;
+using QuickMedik.Model;
+using QuickMedik.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CORSPolicy", builder =>
+    {
+        builder.AllowAnyMethod().AllowAnyHeader().WithOrigins("http://localhost:3000", "https://appname.azurestaticapps.net");
+    });
+});
+builder.Services.AddDbContext<DataBaseContext>(options =>
+{
+    options.UseInMemoryDatabase("Clients");
+});
+
+builder.Services.AddDbContext<DataBaseContext>(options =>
+{
+    options.UseInMemoryDatabase("Proffesionals");
+});
 
 // Add services to the container.
 
